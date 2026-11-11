@@ -1,0 +1,115 @@
+id,name,formula,smiles,solvent,peaks_ppm,table_rows
+acetic-acid,Acetic acid,C2H4O2,CC(=O)O,CDCl3,20.81;175.99,196-197
+acetic-acid,Acetic acid,C2H4O2,CC(=O)O,C6D6,20.37;175.82,196-197
+acetic-acid,Acetic acid,C2H4O2,CC(=O)O,DMSO-d6,20.95;171.93,196-197
+acetone,Acetone,C3H6O,CC(=O)C,CDCl3,30.92;207.07,198-199
+acetone,Acetone,C3H6O,CC(=O)C,C6D6,30.14;204.43,198-199
+acetone,Acetone,C3H6O,CC(=O)C,DMSO-d6,30.56;206.31,198-199
+acetonitrile,Acetonitrile,C2H3N,CC#N,CDCl3,1.89;116.43,200-201
+acetonitrile,Acetonitrile,C2H3N,CC#N,C6D6,0.2;116.02,200-201
+acetonitrile,Acetonitrile,C2H3N,CC#N,DMSO-d6,1.03;117.91,200-201
+allyl-acetate,Allyl acetate,C5H8O2,CC(=O)OCC=C,CDCl3,21.02;65.28;118.34;132.33;170.81,202-206
+allyl-acetate,Allyl acetate,C5H8O2,CC(=O)OCC=C,C6D6,20.37;64.92;117.64;132.9;169.67,202-206
+allyl-acetate,Allyl acetate,C5H8O2,CC(=O)OCC=C,DMSO-d6,20.54;64.32;117.64;132.71;169.97,202-206
+benzaldehyde,Benzaldehyde,C7H6O,O=Cc1ccccc1,CDCl3,129.16;129.91;134.64;136.58;192.67,207-211
+benzaldehyde,Benzaldehyde,C7H6O,O=Cc1ccccc1,C6D6,128.95;129.65;133.95;137.05;191.43,207-211
+benzaldehyde,Benzaldehyde,C7H6O,O=Cc1ccccc1,DMSO-d6,129.1;129.45;134.52;136.2;193.08,207-211
+benzene,Benzene,C6H6,c1ccccc1,CDCl3,128.37,212-212
+benzene,Benzene,C6H6,c1ccccc1,C6D6,128.62,212-212
+benzene,Benzene,C6H6,c1ccccc1,DMSO-d6,128.3,212-212
+tert-butanol,tert-Butanol,C4H10O,CC(C)(C)O,CDCl3,31.25;69.15,213-214
+tert-butanol,tert-Butanol,C4H10O,CC(C)(C)O,C6D6,30.47;68.19,213-214
+tert-butanol,tert-Butanol,C4H10O,CC(C)(C)O,DMSO-d6,30.38;66.88,213-214
+cyclohexane,Cyclohexane,C6H12,C1CCCCC1,CDCl3,26.94,237-237
+cyclohexane,Cyclohexane,C6H12,C1CCCCC1,C6D6,27.23,237-237
+cyclohexane,Cyclohexane,C6H12,C1CCCCC1,DMSO-d6,26.33,237-237
+cyclohexanone,Cyclohexanone,C6H10O,O=C1CCCCC1,CDCl3,24.97;27;41.97;212.57,238-241
+cyclohexanone,Cyclohexanone,C6H10O,O=C1CCCCC1,C6D6,25.03;27;41.83;209.1,238-241
+cyclohexanone,Cyclohexanone,C6H10O,O=C1CCCCC1,DMSO-d6,24.32;26.46;41.32;210.63,238-241
+diallyl-carbonate,Diallyl carbonate,C7H10O3,C=CCOC(=O)OCC=C,CDCl3,68.55;118.96;131.58;154.88,242-245
+diallyl-carbonate,Diallyl carbonate,C7H10O3,C=CCOC(=O)OCC=C,C6D6,68.28;118.22;132.18;155.24,242-245
+diallyl-carbonate,Diallyl carbonate,C7H10O3,C=CCOC(=O)OCC=C,DMSO-d6,67.86;118.32;132.18;154.16,242-245
+dichloroethane,"1,2-Dichloroethane",C2H4Cl2,ClCCCl,CDCl3,43.5,246-246
+dichloroethane,"1,2-Dichloroethane",C2H4Cl2,ClCCCl,C6D6,43.59,246-246
+dichloroethane,"1,2-Dichloroethane",C2H4Cl2,ClCCCl,DMSO-d6,45.02,246-246
+dichloromethane,Dichloromethane,CH2Cl2,ClCCl,CDCl3,53.52,247-247
+dichloromethane,Dichloromethane,CH2Cl2,ClCCl,C6D6,53.46,247-247
+dichloromethane,Dichloromethane,CH2Cl2,ClCCl,DMSO-d6,54.84,247-247
+diethyl-ether,Diethyl ether,C4H10O,CCOCC,CDCl3,15.2;65.91,248-249
+diethyl-ether,Diethyl ether,C4H10O,CCOCC,C6D6,15.46;65.94,248-249
+diethyl-ether,Diethyl ether,C4H10O,CCOCC,DMSO-d6,15.12;62.05,248-249
+diglyme,Diglyme,C6H14O3,COCCOCCOC,CDCl3,59.01;70.51;71.9,250-252
+diglyme,Diglyme,C6H14O3,COCCOCCOC,C6D6,58.66;70.87;72.35,250-252
+diglyme,Diglyme,C6H14O3,COCCOCCOC,DMSO-d6,57.98;69.54;71.25,250-252
+dimethoxyethane,"1,2-Dimethoxyethane",C4H10O2,COCCOC,CDCl3,59.08;71.84,253-254
+dimethoxyethane,"1,2-Dimethoxyethane",C4H10O2,COCCOC,C6D6,58.68;72.21,253-254
+dimethoxyethane,"1,2-Dimethoxyethane",C4H10O2,COCCOC,DMSO-d6,58.03;71.17,253-254
+dma,"N,N-Dimethylacetamide",C4H9NO,CC(=O)N(C)C,CDCl3,21.53;35.28;38.13;171.07,255-258
+dma,"N,N-Dimethylacetamide",C4H9NO,CC(=O)N(C)C,C6D6,21.16;34.67;37.03;169.95,255-258
+dma,"N,N-Dimethylacetamide",C4H9NO,CC(=O)N(C)C,DMSO-d6,21.29;34.42;37.38;169.54,255-258
+dimethyl-carbonate,Dimethyl carbonate,C3H6O3,COC(=O)OC,CDCl3,54.89;156.45,259-260
+dimethyl-carbonate,Dimethyl carbonate,C3H6O3,COC(=O)OC,C6D6,54.3;156.71,259-260
+dimethyl-carbonate,Dimethyl carbonate,C3H6O3,COC(=O)OC,DMSO-d6,54.63;155.76,259-260
+dimethyl-malonate,Dimethyl malonate,C5H8O4,COC(=O)CC(=O)OC,CDCl3,41.11;52.57;167.18,261-263
+dimethyl-malonate,Dimethyl malonate,C5H8O4,COC(=O)CC(=O)OC,C6D6,41.04;51.86;166.66,261-263
+dimethyl-malonate,Dimethyl malonate,C5H8O4,COC(=O)CC(=O)OC,DMSO-d6,40.72;52.08;166.91,261-263
+dmf,"N,N-Dimethylformamide",C3H7NO,CN(C)C=O,CDCl3,31.45;36.5;162.62,264-266
+dmf,"N,N-Dimethylformamide",C3H7NO,CN(C)C=O,C6D6,30.72;35.25;162.13,264-266
+dmf,"N,N-Dimethylformamide",C3H7NO,CN(C)C=O,DMSO-d6,30.73;35.73;162.29,264-266
+dmso,Dimethyl sulfoxide,C2H6OS,CS(C)=O,CDCl3,40.76,267-267
+dmso,Dimethyl sulfoxide,C2H6OS,CS(C)=O,C6D6,40.03,267-267
+dmso,Dimethyl sulfoxide,C2H6OS,CS(C)=O,DMSO-d6,40.45,267-267
+dioxane,"1,4-Dioxane",C4H8O2,O1CCOCC1,CDCl3,67.14,268-268
+dioxane,"1,4-Dioxane",C4H8O2,O1CCOCC1,C6D6,67.16,268-268
+dioxane,"1,4-Dioxane",C4H8O2,O1CCOCC1,DMSO-d6,66.36,268-268
+ethanol,Ethanol,C2H6O,CCO,CDCl3,18.41;58.28,270-271
+ethanol,Ethanol,C2H6O,CCO,C6D6,18.72;57.86,270-271
+ethanol,Ethanol,C2H6O,CCO,DMSO-d6,18.51;56.07,270-271
+ethyl-acetate,Ethyl acetate,C4H8O2,CCOC(C)=O,CDCl3,14.19;21.04;60.49;171.36,272-275
+ethyl-acetate,Ethyl acetate,C4H8O2,CCOC(C)=O,C6D6,14.19;20.56;60.21;170.44,272-275
+ethyl-acetate,Ethyl acetate,C4H8O2,CCOC(C)=O,DMSO-d6,14.4;20.68;59.74;170.31,272-275
+butanone,2-Butanone,C4H8O,CCC(C)=O,CDCl3,7.86;29.49;36.89;209.56,276-279
+butanone,2-Butanone,C4H8O,CCC(C)=O,C6D6,7.91;28.56;36.36;206.55,276-279
+butanone,2-Butanone,C4H8O,CCC(C)=O,DMSO-d6,7.61;29.26;35.83;208.72,276-279
+ethylene-glycol,Ethylene glycol,C2H6O2,OCCO,CDCl3,63.79,281-281
+ethylene-glycol,Ethylene glycol,C2H6O2,OCCO,C6D6,64.34,281-281
+ethylene-glycol,Ethylene glycol,C2H6O2,OCCO,DMSO-d6,62.76,281-281
+furan,Furan,C4H4O,o1cccc1,CDCl3,109.57;142.71,282-283
+furan,Furan,C4H4O,o1cccc1,C6D6,109.67;142.73,282-283
+furan,Furan,C4H4O,o1cccc1,DMSO-d6,109.62;142.82,282-283
+hexamethylbenzene,Hexamethylbenzene,C12H18,Cc1c(C)c(C)c(C)c(C)c1C,CDCl3,16.98;132.21,285-286
+hexamethylbenzene,Hexamethylbenzene,C12H18,Cc1c(C)c(C)c(C)c(C)c1C,C6D6,16.95;131.79,285-286
+hexamethylbenzene,Hexamethylbenzene,C12H18,Cc1c(C)c(C)c(C)c(C)c1C,DMSO-d6,16.6;131.1,285-286
+hexane,n-Hexane,C6H14,CCCCCC,CDCl3,14.14;22.7;31.64,288-290
+hexane,n-Hexane,C6H14,CCCCCC,C6D6,14.32;23.04;31.96,288-290
+hexane,n-Hexane,C6H14,CCCCCC,DMSO-d6,13.88;22.05;30.95,288-290
+imidazole,Imidazole,C3H4N2,c1ncc[nH]1,CDCl3,122;135.38,292-293
+imidazole,Imidazole,C3H4N2,c1ncc[nH]1,C6D6,122.16;135.76,292-293
+imidazole,Imidazole,C3H4N2,c1ncc[nH]1,DMSO-d6,121.55;135.15,292-293
+methanol,Methanol,CH4O,CO,CDCl3,50.41,295-295
+methanol,Methanol,CH4O,CO,C6D6,49.97,295-295
+methanol,Methanol,CH4O,CO,DMSO-d6,48.59,295-295
+nitromethane,Nitromethane,CH3NO2,C[N+](=O)[O-],CDCl3,62.5,296-296
+nitromethane,Nitromethane,CH3NO2,C[N+](=O)[O-],C6D6,61.16,296-296
+nitromethane,Nitromethane,CH3NO2,C[N+](=O)[O-],DMSO-d6,63.28,296-296
+pentane,n-Pentane,C5H12,CCCCC,CDCl3,14.08;22.38;34.16,297-299
+pentane,n-Pentane,C5H12,CCCCC,C6D6,14.25;22.72;34.45,297-299
+pentane,n-Pentane,C5H12,CCCCC,DMSO-d6,13.28;21.7;33.48,297-299
+propan-2-ol,2-Propanol,C3H8O,CC(C)O,CDCl3,25.14;64.5,302-303
+propan-2-ol,2-Propanol,C3H8O,CC(C)O,C6D6,25.18;64.23,302-303
+propan-2-ol,2-Propanol,C3H8O,CC(C)O,DMSO-d6,25.43;64.92,302-303
+pyrrole,Pyrrole,C4H5N,[nH]1cccc1,CDCl3,107.98;117.77,311-312
+pyrrole,Pyrrole,C4H5N,[nH]1cccc1,C6D6,108.21;117.78,311-312
+pyrrole,Pyrrole,C4H5N,[nH]1cccc1,DMSO-d6,107.07;117.32,311-312
+pyrrolidine,Pyrrolidine,C4H9N,N1CCCC1,CDCl3,25.56;46.93,313-314
+pyrrolidine,Pyrrolidine,C4H9N,N1CCCC1,C6D6,25.65;46.86,313-314
+pyrrolidine,Pyrrolidine,C4H9N,N1CCCC1,DMSO-d6,25.26;46.51,313-314
+thf,Tetrahydrofuran,C4H8O,O1CCCC1,CDCl3,25.62;67.97,316-317
+thf,Tetrahydrofuran,C4H8O,O1CCCC1,C6D6,25.72;67.8,316-317
+thf,Tetrahydrofuran,C4H8O,O1CCCC1,DMSO-d6,25.14;67.03,316-317
+toluene,Toluene,C7H8,Cc1ccccc1,CDCl3,21.46;125.33;128.26;129.07;137.89,318-322
+toluene,Toluene,C7H8,Cc1ccccc1,C6D6,21.1;125.68;128.56;129.33;137.91,318-322
+toluene,Toluene,C7H8,Cc1ccccc1,DMSO-d6,20.99;125.29;128.18;128.88;137.35,318-322
+triethylamine,Triethylamine,C6H15N,CCN(CC)CC,CDCl3,11.61;46.25,323-324
+triethylamine,Triethylamine,C6H15N,CCN(CC)CC,C6D6,12.35;46.77,323-324
+triethylamine,Triethylamine,C6H15N,CCN(CC)CC,DMSO-d6,11.74;45.74,323-324
